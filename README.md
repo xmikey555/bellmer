@@ -6,6 +6,8 @@ Bellmer is a free & open source engine for powering multi-genre roleplay experie
 coming soon...
 
 # Installation
+**NOTE**: As of the writing of this, Bellmer is currently NOT in a release-ready state. You will need to manually compile the project using [Rojo](https://rojo.space/). The instructions below (aside from step 3) are currently not applicable.
+
 1. Grab an .rbxl file from the [Releases](https://github.com/xmikey555/bellmer/releases) page.
 2. Do the usual setup for a Roblox place file
 3. **THIS IS IMPORTANT:** Grab yourself a copy of loleris' [ProfileStore](https://devforum.roblox.com/t/profilestore-save-your-player-data-easy-datastore-module/3190543) and place the module into ServerScriptService. The place will *not* work without it, and you'll be warned in the output window if you forgot to install it. (The reason this isn't included in the repository is because putting dependencies *inside* of the source is bad practice.) 
@@ -26,4 +28,4 @@ Bellmer's source code is licensed under the MIT license.
 
 This means you can do pretty much whatever you want with it (including for-profit & private purposes), as long as you keep the license and copyright notice intact.
 
-Though it is not required, we would appreciate it if you contributed any changes made on your forks of the project for the betterment of everyone else.
+Though it is not required, we would appreciate it if you contributed any changes made on your forks of the project back to the main repository for the betterment of everyone else.
