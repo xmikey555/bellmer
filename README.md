@@ -1,9 +1,9 @@
 ![The banner for Bellmer, a free and open source roleplay engine for Roblox roleplaying experiences.](https://file.garden/aHy8JA72XFB-UF-G/bellmer_github_banner.png)
 
-Bellmer is a free & open source engine for powering multi-genre roleplay experiences on Roblox.
+Bellmer is a free & open source engine for powering multi-genre roleplay experiences on Roblox of all sizes.
 
 # Documentation
-coming soon...
+Check out the [Wiki](https://github.com/xmikey555/bellmer/wiki) for a more in-depth guide to setup.
 
 # Installation
 **NOTE**: As of the writing of this, Bellmer is currently NOT in a release-ready state. You will need to manually compile the project using [Rojo](https://rojo.space/). The instructions below (aside from step 3) are currently not applicable.
