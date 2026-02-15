@@ -16,6 +16,8 @@ Thank you for contributing! (or at least thinking about it.) Here's some guideli
 - Any contributions to the main repository should be something useful for *all* downstream forks.
 - The main repository currently does not accept 3D assets (models, meshes) aside from the bundled example assets.
 - Do not submit low-effort AI-generated pull requests or issues. We will be very disappointed in you if you do this.
+  - (This does not fully exclude the usage of AI for coding, just make sure you're using it as a tool and not a crutch)
+
 
 # License
 See [LICENSE](https://github.com/xmikey555/bellmer/blob/main/LICENSE).
